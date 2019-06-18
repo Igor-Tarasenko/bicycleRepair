@@ -1,0 +1,36 @@
+header {
+	padding: 15px 0;
+	background: transparent;
+	.logo {
+		img {
+			height: 60px;
+			width: auto;
+		}
+	}
+	.header-menu {
+		display: flex;
+		align-items: center;
+		ul {
+			list-style-type: none;
+			display: flex;
+			align-items: center;
+			justify-content: flex-end;
+			padding-left: 0;
+			width: 100%;
+			li {
+				margin-left: 50px;
+				a {
+					font-family: $open-font;
+					font-weight: 400;
+					color: #333333;
+					font-size: 16px;
+					cursor: pointer;
+				}
+			}
+		}
+	}
+	.navbar {
+		padding: 0;
+		width: 100%;
+	}
+}

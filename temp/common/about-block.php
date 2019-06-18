@@ -1,0 +1,15 @@
+<section class="about" id="section-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 about-text_main-block">
+                <h2>About us</h2>
+                <div class="about_text">
+                    <p>We are a team of experienced workers, who are committed to providing the best quality services to the neighboring areas. We believe that biking is a fun activity, and leads you towards a healthy way to live a sustainable life. Our team’s skills are a proof of our decade long experience working in bicycle repair industry. From low end bikes to high end bikes, we help you fix everything. Our stores are equipped with all of  the tools required to replace anything needed. Whether your bike has a flat tyre or the frame disassembled, or you need a color fix - we got you covered. Our incredibly experienced team who knows how to handle a 25 dollar garage sale bike that requires a bunch of new accessories to the expensive racing bike you’ve have been planning to take out for your next crit. Each of our team mate is welcoming, helpful, and reliable. Got any doubts? Come talk to us before dropping your bike at our shop. Our goal is to deliver exactly what our customers need. We are dedicated to serve you and your bike’s needs. We believe in working in a positive work environment, the one that radiates good vibes - which in turn becomes evident in our superior customer service and quality work.</p>
+                    <p>At our store, we offer expert repair along with selling bicycles, its parts, and accessories. We do everything from fixing a flat tyre to repairing your distorted frame or malaligned seat . If you’re looking for a new bike for your kid or yourself, we sell that too. Whatever you need, our store is the one stop for you. We have the tools to repair every model from track, mountain, road, cross, hybrid, comfort, cruiser, and coaster brake bikes. We also take care of BMX and kids bikes too. We provide an exceptional service that you will not find anywhere.</p>
+                    <p>Our whole team is dedicated to making bike repair service and maintenance as convenient as possible for our customers. Our main focus is cycle repair and customer satisfaction. Everything else comes afterwards. We know how awful your life becomes if anything happens to your bike so we carry all the the necessary equip and spares we need to do the required job. We also understand that your student budget might not allow you the fix you want, so we always try to repair the existing components and only recommend parts replacement when it is absolutely necessary or becomes a safety concern.We focus on the long term health of your bike. When your repair is done, we take a test drive then call you for a test drive. Once you are satisfied, you can take your bike home.</p>
+                    <p>Come visit us at the store and get a quick recommendation from our bike experts.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

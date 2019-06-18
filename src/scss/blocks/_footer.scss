@@ -1,0 +1,23 @@
+footer {
+	background: url("../img/last-img.png") no-repeat center;
+	background-size: cover;
+	height: 826px;
+	padding-top: 394px;
+	h2 {
+		color: #ffffff;
+		margin-bottom: 35px;
+	}
+	.email-btn {
+		color: #ffffff;
+		border: 1px solid #ffffff;
+		padding: 20px 0;
+		text-align: center;
+		a {
+			background: url("../img/email.png") no-repeat center left;
+			background-size: 30px;
+			font-family: $open-font;
+			font-size: 20px;
+			padding-left: 40px;
+		}
+	}
+}

@@ -1,0 +1,44 @@
+.main-section {
+	background: url("../img/first-img.png") no-repeat center;
+	background-size: cover;
+	height: 100vh;
+	.btn-block {
+		margin-top: 35px;
+	}
+	.title-block {
+		display: flex;
+		align-items: center;
+		min-height: 887px;
+	}
+	.title {
+		p {
+			margin-top: 15px;
+		}
+	}
+	.title-img {
+		padding-right: 0;
+		img {
+			width: 100%;
+		}
+	}
+}
+.btn-block {
+	display: flex;
+	justify-content: left;
+}
+.btn {
+	font-family: $comforta-font;
+	color: #ffffff;
+	font-size: 20px;
+	background: #000000;
+	padding: 10px 16px;
+	min-width: 208px;
+	text-align: center;
+	outline: none;
+	cursor: pointer;
+	transition: all 0.5s;
+	&:hover {
+		color: #ffffff;
+		transform: scale(1.1);
+	}
+}

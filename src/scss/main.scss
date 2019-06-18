@@ -1,0 +1,86 @@
+@import 'libs';
+@import 'fonts';
+// colors
+$body-background: #ffffff;
+
+// fonts
+$comforta-font: 'Comfortaa', sans-serif;
+$open-font: 'Open Sans', sans-serif;
+
+html {
+  	box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+body {
+	color: #333333;
+	font-size: 20px;
+	font-weight: 400;
+	background: $body-background;
+	font-family: $comforta-font;
+}
+h1 {
+	font-family: $open-font;
+	font-size: 60px;
+	color: #333333;
+	text-align: left;
+	font-weight: 800;
+}
+h2 {
+	font-family: $open-font;
+	font-size: 52px;
+	color: #333333;
+	text-align: center;
+	letter-spacing: 5px;
+	margin-bottom: 20px;
+	font-weight: 700;
+}
+h3 {
+	font-family: $open-font;
+	font-size: 27px;
+	color: #333333;
+	font-weight: 600;
+	margin-bottom: 0;
+	text-align: center;
+	line-height: 35px;
+	min-height: 70px;
+}
+h4 {
+	font-family: $open-font;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin: 0;
+	color: $body-background;
+}
+a {
+	color: inherit;
+	&:hover {
+		color: inherit;
+		text-decoration: none;
+	}
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+p {
+	margin-bottom: 0;
+	color: #333333;
+}
+b {
+	font-weight: bold;
+}
+button:focus {
+	outline: none;
+}
+.toTop {
+	position: fixed;
+	bottom: 96px;
+	right: 200px;
+	cursor: pointer;
+	display: none;
+}
+@import 'index';
